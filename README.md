@@ -44,6 +44,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manavcodaty&" alt="manavcodaty" /></p>
 
+![Visitor Count](https://profile-counter.glitch.me/{manavcodaty}/count.svg)
+
+
 <p align="center">
 
 
