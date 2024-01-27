@@ -37,14 +37,14 @@
 <br/>
 
 <p align="center">
-  <a href="https://github.com/alsiam">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alsiam&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+  <a href="https://github.com/manavcodaty">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=manavcodaty&theme=radical&border=7F3FBF&background=0D1117" alt="Manav Codaty's GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/alsiam">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alsiam&theme=radical" alt="Manav Codaty's GitHub Contribution"/>
+  <a href="https://github.com/manavcodaty">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manavcodaty&theme=radical" alt="Manav Codaty's GitHub Contribution"/>
   </a>
 </p>
 
