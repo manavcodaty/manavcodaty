@@ -25,7 +25,7 @@
 
 [![My Code](https://github-readme-stats.vercel.app/api/pin/?username=manavcodaty&repo=Manav_Code&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/manavcodaty/Manav_Code)
 [![Computer Science](https://github-readme-stats.vercel.app/api/pin/?username=manavcodaty&repo=Computer_Science&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/manavcodaty/Computer_Science)
-[![Other Projects](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/manavcodaty/Other-Projects)
+[![Other Projects](https://github-readme-stats.vercel.app/api/pin/?username=manavcodaty&repo=Other-Projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/manavcodaty/Other-Projects)
 [![Manav Codaty Readme](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=alsiam&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/alsiam)
 
 <p align="left">
