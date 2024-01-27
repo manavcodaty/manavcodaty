@@ -40,3 +40,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manavcodaty&" alt="manavcodaty" /></p>
 
+<p align="center">
+
+
+![Snake animation](https://github.com/Fir121/Fir121/blob/output/github-snake-dark.svg)
+
+</p>
+
