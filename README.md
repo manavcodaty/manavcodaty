@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [StockMax](https://github.com/manavcodaty/StockMax)
 
-- 🌱 I’m currently learning **IGCSE Computer Science, Django, Java, Pandas, Matplotlib, SQL, Swift**
+- 🌱 I’m currently learning **IGCSE Computer Science, Django, Java, Pandas, SQL, Swift**
 
 - 👯 I’m looking to collaborate on [End Of Time](https://github.com/manavcodaty/End-of-Time-)
 
