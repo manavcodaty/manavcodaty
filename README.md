@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/manavcodaty](https://github.com/manavcodaty)
 
-- 📝 I regularly write articles on [https://dev.to/](https://dev.to/)
+- 📝 I regularly write articles on [https://dev.to/](https://dev.to/manavcodaty)
 
 - 💬 Ask me about **NumPy, TensorFlow, SciPy, MySQL, Hibernate, Google Guava**
 
