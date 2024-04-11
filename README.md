@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on [FantasyPlus](https://github.com/manavcodaty/FantasyPlus)
+- 🔭 I’m currently working on [QuickPlay](https://github.com/manavcodaty/QuickPlay)
 
 - 🌱 I’m currently learning **IGCSE Computer Science, Django, Java, Pandas, SQL, Swift**
 
