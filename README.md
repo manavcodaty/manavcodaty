@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [QuickPlay](https://github.com/manavcodaty/QuickPlay)
 
-- 🌱 I’m currently learning **IGCSE Computer Science, Django, Java, Pandas, SQL, Swift**
+- 🌱 I’m currently learning **IGCSE Computer Science, Django, Javascript, Pandas, SQL, Swift**
 
 - 👯 I’m looking to collaborate on [End Of Time](https://github.com/manavcodaty/End-of-Time-)
 
