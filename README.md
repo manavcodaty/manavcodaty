@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manav Codaty</h1>
-<h3 align="center">A passionate backend developer from India that lives in Dubai and studies in Dubai English Speaking College. I study IGCSE Computer Science!</h3>
+<h3 align="center">Dubai English Speaking College ‘27 | Tech enthusiast | Python & Javascript Developer |</h3>
 
 
 
