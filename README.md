@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on [End Of Time](https://github.com/manavcodaty/End-of-Time-)
 
-- 🤝 I’m looking for help with [Hungy](https://github.com/manavcodaty/Hungy-App)
+- 🤝 I’m looking for help with [Memo](https://github.com/manavcodaty/Memo)
 
 - 👨‍💻 All of my projects are available at [https://github.com/manavcodaty](https://github.com/manavcodaty)
 
