@@ -3,19 +3,9 @@
 
 
 
-- 🔭 I’m currently working on [QuickPlay](https://github.com/manavcodaty/QuickPlay)
-
-- 🌱 I’m currently learning **IGCSE Computer Science, Django, Javascript, Pandas, SQL, Swift**
-
-- 👯 I’m looking to collaborate on [End Of Time](https://github.com/manavcodaty/End-of-Time-)
-
-- 🤝 I’m looking for help with [Memo](https://github.com/manavcodaty/Memo)
-
 - 👨‍💻 All of my projects are available at [https://github.com/manavcodaty](https://github.com/manavcodaty)
 
 - 📝 I regularly write articles on [https://dev.to/](https://dev.to/manavcodaty)
-
-- 💬 Ask me about **NumPy, TensorFlow, SciPy, MySQL, Hibernate, Google Guava**
 
 - 📫 How to reach me **manav.codaty@gmail.com**
 
